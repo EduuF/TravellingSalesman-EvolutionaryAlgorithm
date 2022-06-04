@@ -1,7 +1,8 @@
 
 
 QUANTIDADE_INDIVIDUOS = 10
-TAXA_DE_MUTACAO = 5
+TAXA_DE_MUTACAO = 3
+NUMERO_DE_GERACOES = 100000
 
 ''' Random Dataset
 distancias = [
